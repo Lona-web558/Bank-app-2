@@ -1,5 +1,3 @@
-# Bank-app-2
-
 # Bank API
 
 A simple banking simulation app with user authentication, deposits, withdrawals, and transfers between accounts. Built with Node.js, Express, and a lightweight JSON file for storage — no external database required.
